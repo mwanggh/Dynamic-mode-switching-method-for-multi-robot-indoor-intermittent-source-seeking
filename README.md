@@ -12,8 +12,9 @@
 
 ## Videos
 
+- [Simulation Scenario](https://youtu.be/6vP_Q0S4Ufs)
 - [Real Scenario](https://youtu.be/T0mxPenM9gw)
-- [Simulation Scenario](https://youtu.be/6vP_Q0S4Ufs）
+
 
 ## Cite this paper
 
